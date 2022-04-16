@@ -4,7 +4,9 @@ April 16, 2022
 
 I know GitHub can render Org's *bold* and /italics/ and whatnot, but how about a footnote?[fn:1]
 
-Welp, I guess not. Hmm...
+Welp, I guess not.
+
+Hmm...
 
 * Footnotes
 
