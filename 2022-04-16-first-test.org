@@ -1,0 +1,9 @@
+* First test
+
+April 16, 2022
+
+I know GitHub can render Org's *bold* and /italics/ and whatnot, but how about a footnote?[fn:1]
+
+* Footnotes
+
+[fn:1] Hieee.
